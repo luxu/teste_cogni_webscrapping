@@ -5,7 +5,6 @@
 - python -m venv .venv
 ````
 
-
 ### Instalar as libs
 ````bash
 - pip install -r requirements.txt
@@ -15,3 +14,6 @@
 ````bash
 - python segunda_via_conta.py
 ````
+
+OBS. Quando usamos o plawright pela primeira vez pode aparecer esse erro:
+
