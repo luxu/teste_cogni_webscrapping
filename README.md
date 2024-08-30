@@ -17,3 +17,4 @@
 
 OBS. Quando usamos o plawright pela primeira vez pode aparecer esse erro:
 
+![image_erro](https://github.com/luxu/teste_cogni_webscrapping/blob/main/erro_playwright.png)
