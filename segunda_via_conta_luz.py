@@ -13,7 +13,7 @@ async def playwright_access():
         browser = await p.chromium.launch(headless=False)
         page = await browser.new_page()
         await page.goto(url)
-        await page.get_by_role("textbox").fill('20443596859')
+        await page.get_by_role("textbox").fill('')
         sleep(5)
         await page.get_by_role("button", name="ENTRAR").click()
         await page.pause()
