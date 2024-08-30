@@ -18,3 +18,11 @@
 OBS. Quando usamos o plawright pela primeira vez pode aparecer esse erro:
 
 ![image_erro](https://github.com/luxu/teste_cogni_webscrapping/blob/main/erro_playwright.png)
+
+É só abrir o terminal e rodar:
+
+````bash
+- playwright install
+````
+
+Será feito a instalação e pode testar as mudanças
